@@ -1,0 +1,2 @@
+module junit_sample {
+}
